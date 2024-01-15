@@ -1,0 +1,18 @@
+.box-container {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    border: 1px dotted black;
+    margin: 20px;
+    border-bottom: 1px solid grey;
+    padding: 30px;
+    background-color: aliceblue;
+}
+
+
+
+.details {
+
+    margin-top: 20px;
+    font-size: 20px;
+}
